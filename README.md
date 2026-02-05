@@ -4,8 +4,8 @@ A production-quality prototype of a community feed application with threaded dis
 
 ## 🌐 Live Demo
 
-> **Frontend**: [https://community-feed.vercel.app](https://community-feed.vercel.app)  
-> **Backend API**: [https://community-feed-api.railway.app/api/](https://community-feed-api.railway.app/api/)
+> **Frontend**: [https://frontend-eight-amber-64.vercel.app](https://frontend-eight-amber-64.vercel.app)  
+> **Backend API**: *Deploy to Railway to get URL*
 
 ## Screenshots
 
